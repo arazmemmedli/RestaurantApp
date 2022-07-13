@@ -1,0 +1,188 @@
+{
+    "table": [
+        {
+            "id": 1,
+            "tableCode": 1
+        },
+        {
+            "id": 2,
+            "tableCode": 2
+        },
+        {
+            "id": 3,
+            "tableCode": 3
+        },
+        {
+            "id": 4,
+            "tableCode": 4
+        },
+        {
+            "id": 5,
+            "tableCode": 5
+        },
+        {
+            "id": 6,
+            "tableCode": 6
+        },
+        {
+            "id": 7,
+            "tableCode": 7
+        },
+        {
+            "id": 8,
+            "tableCode": 8
+        },
+        {
+            "id": 9,
+            "tableCode": 9
+        },
+        {
+            "id": 10,
+            "tableCode": 10
+        }
+    ],
+    "employees": [
+        {
+            "id": 1,
+            "name": "Nurlan"
+        },
+        {
+            "id": 2,
+            "name": "Ulvi"
+        },
+        {
+            "id": 3,
+            "name": "Orxan"
+        },
+        {
+            "id": 4,
+            "name": "Murad"
+        },
+        {
+            "id": 5,
+            "name": "Jale"
+        },
+        {
+            "id": 6,
+            "name": "Nezrin"
+        },
+        {
+            "id": 7,
+            "name": "Aysel"
+        }
+    ],
+    "row": [
+        {
+            "id": 1,
+            "rowItem": 1
+        },
+        {
+            "id": 2,
+            "rowItem": 2
+        },
+        {
+            "id": 3,
+            "rowItem": 3
+        },
+        {
+            "id": 4,
+            "rowItem": 4
+        },
+        {
+            "id": 5,
+            "rowItem": 5
+        },
+        {
+            "id": 6,
+            "rowItem": 6
+        },
+        {
+            "id": 7,
+            "rowItem": 7
+        },
+        {
+            "id": 8,
+            "rowItem": 8
+        },
+        {
+            "id": 9,
+            "rowItem": 9
+        },
+        {
+            "id": 10,
+            "rowItem": 10
+        }
+    ],
+    "product": [
+        {
+            "id": 1,
+            "name": "Dönər",
+            "price": 8,
+            "amount": 1,
+            "waitingPeriod": 8
+        },
+        {
+            "id": 2,
+            "name": "Pizza",
+            "price": 15,
+            "amount": 1,
+            "waitingPeriod": 15
+        },
+        {
+            "id": 3,
+            "name": "Cola",
+            "price": 2,
+            "amount": 1,
+            "waitingPeriod": 2
+        },
+        {
+            "id": 4,
+            "name": "Lahmacun",
+            "price": 10,
+            "amount": 1,
+            "waitingPeriod": 10
+        },
+        {
+            "id": 5,
+            "name": "Waffle",
+            "price": 5,
+            "amount": 1,
+            "waitingPeriod": 10
+        },
+        {
+            "id": 6,
+            "name": "Çay",
+            "price": 4,
+            "amount": 1,
+            "waitingPeriod": 12
+        },
+        {
+            "id": 7,
+            "name": "Coffee",
+            "price": 6,
+            "amount": 8,
+            "waitingPeriod": 10
+        },
+        {
+            "id": 8,
+            "name": "Double Cheeseburger",
+            "price": 12,
+            "amount": 1,
+            "waitingPeriod": 12
+        },
+        {
+            "id": 9,
+            "name": "Twister",
+            "price": 8,
+            "amount": 1,
+            "waitingPeriod": 10
+        },
+        {
+            "id": 10,
+            "name": "Tost",
+            "price": 6,
+            "amount": 1,
+            "waitingPeriod": 8
+        }
+    ]
+}
