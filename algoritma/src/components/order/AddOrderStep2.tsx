@@ -149,6 +149,7 @@ export const AddOrderStep2 = () => {
                                                             }}
                                                             id="product"
                                                             name="product"
+                                                            required
                                                             autoComplete="product-name"
                                                             className="mt-1 block w-full py-2 px-3 border border-gray-300 bg-white rounded-md shadow-sm focus:outline-none focus:ring-indigo-500 focus:border-[#176CA6] sm:text-sm"
                                                             onChange={(e) => updateOrderProduct(input.id, e.target.value, index)}
@@ -171,6 +172,7 @@ export const AddOrderStep2 = () => {
                                                             type="text"
                                                             name="quantity"
                                                             id="quantity"
+                                                            required
                                                             autoComplete="quantity-name"
                                                             className="mt-1 block w-full py-2 px-3 border border-gray-300 bg-white rounded-md shadow-sm focus:outline-none focus:ring-indigo-500 focus:border-indigo-500 sm:text-sm"
                                                             onChange={(e) => updateOrderAmount(input.id, e.target.value, index)}

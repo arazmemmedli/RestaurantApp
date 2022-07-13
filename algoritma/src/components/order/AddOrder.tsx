@@ -116,6 +116,7 @@ export const AddOrder = () => {
                                                 id="table"
                                                 name="table"
                                                 autoComplete="table-name"
+                                                required
                                                 className="mt-1 block w-full py-2 px-3 border border-gray-300 bg-white rounded-md shadow-sm focus:outline-none focus:ring-indigo-500 focus:border-[#176CA6] sm:text-sm"
                                                 onInvalid={() => {
                                                     toast.error('Please do not leave the box empty!', {
@@ -146,6 +147,7 @@ export const AddOrder = () => {
                                                 id="row"
                                                 name="row"
                                                 autoComplete="row-name"
+                                                required
                                                 className="mt-1 block w-full py-2 px-3 border border-gray-300 bg-white rounded-md shadow-sm focus:outline-none focus:ring-indigo-500 focus:border-[#176CA6] sm:text-sm"
                                                 onInvalid={() => {
                                                     toast.error('Please do not leave the box empty!', {
@@ -176,6 +178,7 @@ export const AddOrder = () => {
                                                 id="employee"
                                                 name="employee"
                                                 autoComplete="employee-name"
+                                                required
                                                 className="mt-1 block w-full py-2 px-3 border border-gray-300 bg-white rounded-md shadow-sm focus:outline-none focus:ring-indigo-500 focus:border-[#176CA6] sm:text-sm"
                                                 onInvalid={() => {
                                                     toast.error('Please do not leave the box empty!', {
